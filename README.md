@@ -159,7 +159,7 @@ Deploy model using Flask or Streamlit
 Add confusion matrix and ROC curve analysis
 👨‍💻 Author
 
-Zarar Ahmed
+Zarar Ahmad
 Artificial Intelligence Student | Machine Learning Enthusiast
 
 ⭐ Conclusion
@@ -170,11 +170,3 @@ This project demonstrates how machine learning can be used in healthcare for sur
 
 This project is for educational purposes only.
 
-
----
-
-If you want next upgrade, I can also make:
-- 🔥 GitHub README with **badges (accuracy, python, sklearn, license)**
-- 📊 Add **confusion matrix + graphs section**
-- 🚀 Turn it into **FYP final documentation report**
-- 🌐 Or deploy it as **Streamlit web app**
